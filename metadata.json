@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack MVP",
+  "description": "A production-ready personal finance tracker with a spreadsheet-like experience, multi-currency support, and performance reports.",
+  "requestFramePermissions": []
+}
